@@ -4,7 +4,7 @@
 
 *University of Melbourne | October 2024*
 
-[![GitHub Repo](https://img.shields.io/badge/View%20on%20GitHub-Repository-blue?logo=github)](https://github.com/SX0818/DS_project) 
+[![GitHub Repo](https://img.shields.io/badge/View%20on%20GitHub-Repository-blue?logo=github)](https://github.com/Cloudduoduo/DS_project) 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#) [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](#)
 ---
 
@@ -96,7 +96,7 @@ bash setup_structure.sh
 
 ```bash
 # Clone repository
-git clone https://github.com/SX0818/DS_project
+git clone https://github.com/Cloudduoduo/DS_project
 cd DS_project
 
 # Install dependencies
